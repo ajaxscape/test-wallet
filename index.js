@@ -31,4 +31,3 @@ game.withPlayers((player) => {
   console.log(`Coins: `, player.coins)
   console.log(`Stock: `, player.stock)
 })
-
